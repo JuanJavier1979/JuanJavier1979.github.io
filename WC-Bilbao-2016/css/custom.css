@@ -1,0 +1,13 @@
+.reveal section img,
+.reveal a:hover img {
+    border: none;
+    background: none;
+    box-shadow: none;
+}
+.reveal a:hover img {
+	opacity: .7;
+}
+
+.slide03 h3 {
+	text-transform: initial;
+}
